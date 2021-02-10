@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lhk3337&theme=yeblu&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhk3337&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhk3337&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
