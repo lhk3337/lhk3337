@@ -1,5 +1,5 @@
-### Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lhk3337&show_icons=true)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lhk3337&theme=yeblu&show_icons=true)
 <!--
 **lhk3337/lhk3337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
