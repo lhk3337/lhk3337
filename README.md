@@ -5,6 +5,7 @@
 <p>
 <a href="mailto:lhk3337@gmail.com" target="_blank"><img src="https://img.shields.io/badge/lhk3337@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/holim/" target="_blank"><img src="https://img.shields.io/badge/hongkyuLim-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://lhk3337.github.io/" target="_blank"><img src="https://img.shields.io/badge/dev Blog-3A5D7B?style=flat-square&logo=github" /></a>
 </p>
 
 <p>
