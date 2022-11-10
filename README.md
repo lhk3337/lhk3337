@@ -1,3 +1,7 @@
+<div align=center> <h2>👋 Hi there! I'm front developer using React! ⚛ </h2></div>
+ 
+
+
 <div align=right>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23002045&title_bg=%23F7394D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -8,9 +12,6 @@
   <a href="https://lhk3337.github.io/" target="_blank"><img src="https://img.shields.io/badge/dev Blog-3A5D7B?style=flat-square&logo=github" /></a>
 </p>
 
-<p>
- 👋 Hi there! I'm front developer using React! ⚛
-  </p>
 
 ### ⚙️ Tech
 <p>
