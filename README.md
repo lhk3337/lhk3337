@@ -9,7 +9,7 @@
 <p>
 <a href="mailto:lhk3337@gmail.com" target="_blank"><img src="https://img.shields.io/badge/lhk3337@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/holim/" target="_blank"><img src="https://img.shields.io/badge/hongkyuLim-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://lhk3337.github.io/" target="_blank"><img src="https://img.shields.io/badge/dev Blog-3A5D7B?style=flat-square&logo=github" /></a>
+  <a href="https://bead-minute-575.notion.site/5599370f50844a00bac75516d782a4da?v=3029a5d44df940bbb5a481b5c607086b/" target="_blank"><img src="https://img.shields.io/badge/Blog-3A5D7B?style=flat-square&logo=notion" /></a>
 </p>
 
 
