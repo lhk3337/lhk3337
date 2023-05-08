@@ -37,7 +37,7 @@
 </div>
 <div align=center>
  <h2></h2>
-  <img src=https://github-readme-stats-lhk3337.vercel.app/api?username=lhk3337&theme=graywhite&hide_border=true&show_icons=true? style="width: 40%" />
+  <img src=https://github-readme-stats-lhk3337.vercel.app/api?username=lhk3337&theme=graywhite&hide_border=true&show_icons=true? style="width: 50%" />
 </div>
 
 
