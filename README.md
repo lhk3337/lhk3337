@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23002045&title_bg=%23F7394D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-<div align=center> <h2>👋 Hi there! I'm front developer using React! ⚛ </h2></div>
+<div align=center> <h2>👋 Hi there! I'm front developer! ⚛ </h2></div>
 
 
 
